@@ -12,7 +12,7 @@ from claylib import check_if_online, helpdesk_key
 
 
 # Set up logging
-LOG_FILE = '/home/automation/scripts/clayScripts/logs/acela_ap_reboot.log'
+LOG_FILE = '/home/automation/scripts/clayScripts/logs/fixed_train_consist_ap_reboot.log'
 logging.basicConfig(
     filename=LOG_FILE,
     filemode='a',
